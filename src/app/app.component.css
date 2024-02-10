@@ -1,0 +1,12 @@
+.text-center
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:60px;
+    color: brown;
+}
+.card-img-top{
+    heigth:30px;
+}
+.b{
+    background-color: bisque;
+}
